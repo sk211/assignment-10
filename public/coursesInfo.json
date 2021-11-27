@@ -1,0 +1,59 @@
+[
+    {
+        "id": "5501",
+        "name": "DENTIST",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_192351722-320x200.jpg",
+        "price": 68.36,
+        "desc": "Praesent convallis tortor et enim laoreet, vel consectetur purus latoque penatibus et dis parturient."
+    },
+    {
+        "id": "5502",
+        "name": "VENEERS",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_118733071-320x200.jpg",
+        "price": 99.36,
+        "desc": "Praesent porta lacus a viverra tempus. Proin maximus felis ac risus aliquam maximus. Pellentesque quis orci tempus."
+    },
+    {
+        "id": "5503",
+        "name": "Heart surgery",
+        "img": "http://medicare.bold-themes.com/cardiology/wp-content/uploads/sites/10/2018/01/img-box-01.jpg",
+        "price": 70.36,
+        "desc": "Uniquely deploy cross-unit benefits with wireless testing procedures. Collaboratively build backward compatible relationships whereas tactical paradigms."
+    },
+    {
+        "id": "5504",
+        "name": "Valve prolapse",
+        "img": "http://medicare.bold-themes.com/cardiology/wp-content/uploads/sites/10/2018/01/img-box-02.jpg",
+        "price": 50.50,
+        "desc": "uickly incentivize impactful action items before tactical collaboration and idea-sharing. Monotonically engage intellectual capital through wireless opportunities."
+    },
+    {
+        "id": "5505",
+        "name": "Emergencies",
+        "img": "http://medicare.bold-themes.com/cardiology/wp-content/uploads/sites/10/2018/01/img-box-03.jpg",
+        "price": 50.50,
+        "programming": "programming-1",
+        "desc": "Globally harness multimedia based collaboration and idea-sharing with backend products. Continually whiteboard superior opportunities via covalent scenarios"
+    },
+    {
+        "id": "5506",
+        "name": "TEETH WHITENING",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_77455267-320x200.jpg",
+        "price": 50.50,
+        "desc": "Fusce tempus suscipit auctor. Sed at nulla at nisi pretium tincidunt. Nullam mattis arcu porttitor, dictum metus sed."
+    },
+    {
+        "id": "5507",
+        "name": "CARDIOLOGY",
+        "img": "https://stylemixthemes.com/masterstudy/language-center/wp-content/uploads/sites/15/2019/01/box_1-217x217.jpg",
+        "price": 50.50,
+        "desc": "Nullam eleifend lectus a tortor interdum, non sodales ante vehicula. Proin consequat, at commodo.. "
+    },
+    {
+        "id": "5508",
+        "name": "BEHAVIOR",
+        "img": "http://medicare.bold-themes.com/vet/wp-content/uploads/sites/5/2015/11/vet_00005-320x213.jpg",
+        "price": 50.50,
+        "desc": "Praesent convallis tortor et enim laoreet, vel consectetur purus latoque penatibus et dis parturient."
+    }
+]
